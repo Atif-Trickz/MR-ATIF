@@ -46,7 +46,7 @@ def jalan(z):
 		time.sleep(00000.1)
 
 
-##### LOGO #####
+##### LOGO ##### Ghareeb TabaH De
 logo = """ -----------------------------•◈•
 (  __)\\ ____--------------_------------•◈•
 |__(~)    •||•THE - ATIF -OFFICAL------•◈•
@@ -67,8 +67,8 @@ def tik():
 
 
 back = 0
-berhasil = []
-cekpoint = []
+Fuck = []
+After 7 Days = []
 oks = []
 id = []
 listgrup = []
